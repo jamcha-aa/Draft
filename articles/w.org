@@ -27,3 +27,7 @@
    - 粘球には特殊な粘菌と糖が分かれて入っている。球が割れると両者が混ざりあい，粘菌が活性化することで爆発が起きる。
    - 溶球には強力なアルカリが入っており，甲殻が石化していない敵にぶつけると，洗い流さない限り腐食させつづける。
    - 粘球のモデルはモンスターハンターに登場するブラキディオス。
+
+   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
+
+   [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]

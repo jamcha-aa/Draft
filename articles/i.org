@@ -19,3 +19,4 @@
     + dangerous, not difficult
     + 隠れ家を探す
     + 受講料をスる
+  - 叙勲してくれるのは誰？
